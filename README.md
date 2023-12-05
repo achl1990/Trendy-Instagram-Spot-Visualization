@@ -12,4 +12,3 @@ Our project serves as a unique tool for visually mapping the hotspots that defin
 - **Distribution Restrictions**: The contents and tools of this project are not meant for distribution. We encourage personal exploration and academic use but prohibit any form of redistribution.
 
 Through this project, we hope to provide an engaging and informative experience for those interested in the intersection of social media trends and urban geography.
-![Uploading image.png…]()
